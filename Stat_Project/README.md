@@ -47,4 +47,16 @@ To determine if there's a statistically significant difference in fare amounts b
 - Card payments associated with higher average fares  
 - Visual insights support targeted strategies for driver earnings and payment incentives
 
+## 🧑‍💼 About Me
+
+I’m Pragati Meshram, an aspiring data analyst with an MBA in Business Analytics and hands-on experience in transforming data into insights. I’m passionate about solving business problems through data and continuously improving my analytical toolkit.
+
+## 📬 Contact
+
+- 📧 Email: pragatimeshram112@example.com
+- 💼 LinkedIn: https://linkedin.com/in/pragati-meshram
+
+---
+
+
 
